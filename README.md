@@ -11,7 +11,7 @@
 <p align="justify">
 Meu nome é Willian, sou casado e moro em Indaiatuba-SP.
 Curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e estou buscando oportunidade para atuar como desenvolvedor back-end.
-<p>Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring Boot.</p>
+Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring Boot.
 </p>
 
 <!-- Contato -->
