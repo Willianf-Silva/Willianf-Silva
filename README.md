@@ -6,6 +6,9 @@
 <img  width="250px" align="right" src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966">
 </p>
 
+<!-- Contato -->
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Willianf-Silva)](https://github.com/Willianf-Silva)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianferreirasilva/)](https://www.linkedin.com/in/willianferreirasilva/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.ferreira.da.silva@gmail.com)](mailto:willian.ferreira.da.silva@gmail.com)   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519982536668&text=Olá!)](https://api.whatsapp.com/send?phone=5519982536668&text=Olá!) 
+  
 
 <!-- Perfil -->
 <p align="justify">
@@ -14,9 +17,7 @@ Curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e estou buscand
 Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring Boot.
 </p>
 
-<!-- Contato -->
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Willianf-Silva)](https://github.com/Willianf-Silva)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianferreirasilva/)](https://www.linkedin.com/in/willianferreirasilva/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.ferreira.da.silva@gmail.com)](mailto:willian.ferreira.da.silva@gmail.com)   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519982536668&text=Olá!)](https://api.whatsapp.com/send?phone=5519982536668&text=Olá!) 
-  
+
 
 <!-- Painel de Status do Usuário
 <p>
