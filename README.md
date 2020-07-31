@@ -17,6 +17,18 @@ Curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e estou buscand
 Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring Boot.
 </p>
 
+----
+##### Linguagens, frameworks e IDE's que tive contato
+
+- Java, Spring;
+- HTML, CSS;
+- Git, GitHub;
+- Banco de dados, MySQL, SQL Server;
+- JUnit, Mockito;
+- Android Studio, IntelliJ, Eclipse, VS Code, Visual Studio;
+- Metodologia ágil, Scrum, Kanban;
+
+----
 
 
 <!-- Painel de Status do Usuário
