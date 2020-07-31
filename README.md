@@ -18,7 +18,7 @@ Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring B
 </p>
 
 ----
-##### Linguagens, frameworks e IDE's que tive contato
+#### Linguagens, frameworks e IDE's que tive contato
 
 - Java, Spring;
 - HTML, CSS;
