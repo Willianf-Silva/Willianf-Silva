@@ -42,15 +42,9 @@ Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring B
 
 
 
-
-
-
-
-
-
-
-
-
+<!-- Painel com as linguagens de programação mais utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact)](https://github.com/Willianf-Silva/github-readme-stats)
+-->
 
 
 <!--
