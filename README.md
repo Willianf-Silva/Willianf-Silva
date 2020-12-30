@@ -13,18 +13,19 @@
 <!-- Perfil -->
 <p align="justify">
 Meu nome é Willian, sou casado e moro em Indaiatuba-SP.
-Curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e estou buscando oportunidade para atuar como desenvolvedor back-end.
-Nas horas vagas estou me dedicando aos estudos em API utilizando Java e Spring Boot.
+Curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e atuo como desenvolvedor back-end.
+Nas horas vagas estou me dedicando aos estudos em API utilizando Java e todo o ecossistema do Spring Boot.
 </p>
 
 ----
 #### Linguagens, frameworks e IDE's que tive contato
 
 - Java, Spring;
-- HTML, CSS;
-- Git, GitHub;
+- FlyWay, Lombok, MapStruct, OpenApi;
+- HTML, CSS, Angular, Thymeleaf;
+- Git, GitHub, GitLab;
 - Banco de dados, MySQL, SQL Server;
-- JUnit, Mockito;
+- JUnit, Mockito, Hamcrest;
 - Android Studio, IntelliJ, Eclipse, VS Code, Visual Studio;
 - Metodologia ágil, Scrum, Kanban;
 
