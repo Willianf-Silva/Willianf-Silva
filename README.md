@@ -7,7 +7,7 @@
 </p>
 
 <!-- Contato -->
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Willianf-Silva)](https://github.com/Willianf-Silva)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianferreirasilva/)](https://www.linkedin.com/in/willianferreirasilva/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.ferreira.da.silva@gmail.com)](mailto:willian.ferreira.da.silva@gmail.com)   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519982536668&text=Olá!)](https://api.whatsapp.com/send?phone=5519982536668&text=Olá!) 
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Willianf-Silva)](https://github.com/Willianf-Silva)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianferreirasilva/)](https://www.linkedin.com/in/willianferreirasilva/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.ferreira.da.silva@gmail.com)](mailto:willian.ferreira.da.silva@gmail.com) 
   
 
 <!-- Perfil -->
@@ -23,11 +23,11 @@ Nas horas vagas estou me dedicando aos estudos em API utilizando Java e todo o e
 - Java, Spring;
 - FlyWay, Lombok, MapStruct, OpenApi;
 - HTML, CSS, Angular, Thymeleaf;
-- Git, GitHub, GitLab;
-- Banco de dados, MySQL, SQL Server;
+- Git, GitHub, GitLab, Bitbucket;
+- Banco de dados, MySQL, SQL Server, Oracle;
 - JUnit, Mockito, Hamcrest;
 - Android Studio, IntelliJ, Eclipse, VS Code, Visual Studio;
-- Metodologia ágil, Scrum, Kanban;
+- Metodologia ágil, Scrum, Kanban, SAFe;
 
 ----
 
@@ -38,7 +38,7 @@ Nas horas vagas estou me dedicando aos estudos em API utilizando Java e todo o e
 </p>
 -->
 
-<!-- Total de Visitas -->
+
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Willianf-Silva" alt="Willianf-Silva" /> </p> -->
 
 
