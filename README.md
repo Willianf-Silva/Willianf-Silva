@@ -7,9 +7,8 @@
 </p>
 
 <!-- Contato -->
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Willianf-Silva)](https://github.com/Willianf-Silva)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianferreirasilva/)](https://www.linkedin.com/in/willianferreirasilva/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.ferreira.da.silva@gmail.com)](mailto:willian.ferreira.da.silva@gmail.com) 
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Willianf-Silva)](https://github.com/Willianf-Silva)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianferreirasilva/)](https://www.linkedin.com/in/willianferreirasilva/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.ferreira.da.silva@gmail.com)](mailto:willian.ferreira.da.silva@gmail.com)   ![](https://komarev.com/ghpvc/?username=Willianf-Silva&label=Profile%20Views&color=0e75b6&&style=flat)
   
-
 <!-- Perfil -->
 <p align="justify">
 Olá, meu nome é Willian. Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Indaiatuba e Tecnólogo em Lógística pela UniMAX.
@@ -30,21 +29,19 @@ Atualmente estou atuando como desenvolvedor backend, me aprofundando na linguage
 - Metodologia ágil, Scrum, Kanban, SAFe;
 
 ----
-
-
-<!-- Painel de Status do Usuário
-<p>
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=Willianf-Silva&show_icons=true&text_color=fff&icon_color=00C853&title_color=FF6F00&bg_color=000">
-</p>
+<!--
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
 -->
 
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Willianf-Silva" alt="Willianf-Silva" /> </p> -->
-
-
-
 <!-- Painel com as linguagens de programação mais utilizadas-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact)](https://github.com/Willianf-Silva/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact&show_icons=true&theme=onedark&hide=scss,css,html" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Willianf-Silva&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Willianf-Silva&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
+
 
 
 
