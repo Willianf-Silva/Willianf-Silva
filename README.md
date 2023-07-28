@@ -12,9 +12,9 @@
 
 <!-- Perfil -->
 <p align="justify">
-Meu nome é Willian, sou casado e moro em Indaiatuba-SP.
-Curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e atuo como desenvolvedor back-end.
-Nas horas vagas estou me dedicando aos estudos em API utilizando Java e todo o ecossistema do Spring Boot.
+Olá, meu nome é Willian. Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Indaiatuba e Tecnólogo em Lógística pela UniMAX.
+</br>
+Atualmente estou atuando como desenvolvedor backend, me aprofundando na linguagem Java, SQL e Framework Spring.
 </p>
 
 ----
@@ -43,9 +43,9 @@ Nas horas vagas estou me dedicando aos estudos em API utilizando Java e todo o e
 
 
 
-<!-- Painel com as linguagens de programação mais utilizadas
+<!-- Painel com as linguagens de programação mais utilizadas-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact)](https://github.com/Willianf-Silva/github-readme-stats)
--->
+
 
 
 <!--
