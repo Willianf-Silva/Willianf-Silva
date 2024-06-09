@@ -3,7 +3,7 @@
 
 <!-- Imagem -->
 <p>
-<img  width="250px" align="right" src="https://camo.githubusercontent.com/557146581556b92fff91d5056176e44185fb63ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966">
+<img  width="250px" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR1c3F0N3Voc2hzdnlzZ2VmanFmaWhpemRuaXc3NHVldHV5NnhwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.webp">
 </p>
 
 <!-- Contato -->
@@ -17,32 +17,35 @@ Atualmente estou atuando como desenvolvedor backend, me aprofundando na linguage
 </p>
 
 ----
-#### Linguagens, frameworks e IDE's que tive contato
+#### Linguagens, Frameworks e Ferramentas que tive contato
 
 - Java, Spring;
 - FlyWay, Lombok, MapStruct, OpenApi;
 - HTML, CSS, Angular, Thymeleaf;
 - Git, GitHub, GitLab, Bitbucket;
-- Banco de dados, MySQL, SQL Server, Oracle;
+- Banco de dados Relacional, MySQL, SQL Server, Oracle;
 - JUnit, Mockito, Hamcrest;
+- Robot Framework, JMeter
+- Postman
 - Android Studio, IntelliJ, Eclipse, VS Code, Visual Studio;
-- Metodologia ágil, Scrum, Kanban, SAFe;
+- Metodologia Ágil, Scrum, Kanban, SAFe;
 
 ----
-<!--
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
--->
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,css,html,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,gherkin,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bitbucket,mysql,postman,)](https://skillicons.dev)
 
-
+----
 <!-- Painel com as linguagens de programação mais utilizadas-->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact&show_icons=true&theme=onedark&hide=scss,css,html" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Willianf-Silva&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact&show_icons=true&theme=onedark&hide_title=true&hide=scss,css,html" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Willianf-Silva&theme=onedark&show_icons=ture&hide=stars&hide_title=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Willianf-Silva&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
-
-
 
 
 <!--
